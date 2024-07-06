@@ -12,10 +12,10 @@
 
 ## Course Reviews
 
-| 학기        | 리뷰한 과목                                          |
-| ----------- | ---------------------------------------------------- |
-| 2022 Spring | MATH101                                              |
-| 2022 Fall   | CSED101, CSED199, CSED233, CSED490E, MATH102         |
-| 2023 Spring | CSED232, CSED273, CSED331, MATH203, MATH210, MATH311 |
-| 2023 Fall   | CSED211, CSED312, CSED341, MATH230, MATH261, MATH312 |
-| 2024 Spring | CSED311, CSED321, CSED353, CSED451                   |
+| 학기                                                         | 리뷰한 과목                                          |
+| ------------------------------------------------------------ | ---------------------------------------------------- |
+| [2022 Spring](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2022-spring.md) | MATH101                                              |
+| [2022 Fall](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2022-fall.md) | CSED101, CSED199, CSED233, CSED490E, MATH102         |
+| [2023 Spring](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2023-spring.md) | CSED232, CSED273, CSED331, MATH203, MATH210, MATH311 |
+| [2023 Fall](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2023-fall.md) | CSED211, CSED312, CSED341, MATH230, MATH261, MATH312 |
+| [2024 Spring](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2024-spring.md) | CSED311, CSED321, CSED353, CSED451                   |
