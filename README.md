@@ -19,3 +19,9 @@
 | [2023 Spring](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2023-spring.md) | CSED232, CSED273, CSED331, MATH203, MATH210, MATH311 |
 | [2023 Fall](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2023-fall.md) | CSED211, CSED312, CSED341, MATH230, MATH261, MATH312 |
 | [2024 Spring](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2024-spring.md) | CSED311, CSED321, CSED353, CSED451                   |
+
+## Disclaimer
+
+이 저장소의 course review에는 내가 과제로 제출했거나 공부하는데 썼던 코드, 증명 등을 링크해 두었다. 포스테키안이라면 이미 학업 윤리에 대해서는 충분히 알고 있을 것이니, 여기에 있는 자료를 정당하게 사용하기를 바란다.
+
+개인적인 생각으로는 컴퓨터공학/수학을 공부하면서 내가 가장 재미있었던 순간은 "어떻게 정확한/효율적인/간결한 코드를 작성할까", "어떻게 gap이 없는 증명을 할 수 있을까" 등의 고민을 할 때였다. 윤리적인 문제를 차치하고서라도 과제를 베끼는 것은 그런 재미를 포기하는 것임을 유념하면 좋을 것이다.
