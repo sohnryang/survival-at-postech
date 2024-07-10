@@ -20,6 +20,9 @@
   - `C:\Xilinx\Vivado\[비바도 버전]\bin\unwrapped\win64.o`에 있는 `exe` 파일들에 대해서 [속성] ➡️ [호환성] ➡️ [에뮬레이션 설정 변경]으로 간 뒤 [고급 설정 사용]을 켜고 멀티코어 설정에서 [단일코어 작업 강제]으로 바꾸면 된다.
 - 또한 Apple Silicon Mac에서 Windows on ARM VM을 사용하는 경우에는 실습에 사용하는 보드를 연결하기 위해 따로 드라이버를 설치해 주어야 한다. [FTDI 공식 드라이버](https://ftdichip.com/wp-content/uploads/2022/02/CDM-v2.12.36.4-for-ARM64-Signed-Distributable.zip)를 사용하자.
 - 매 실습마다 작성하는 보고서는 LaTeX으로 썼는데, Vivado에서 회로도를 PDF로 저장하는 기능이 있어서 요긴하게 써먹었다. PDF로 저장하면 벡터 이미지 형태로 회로도가 나오기 때문에 확대해도 깨지지 않는다.
+- 학기말에 파이널 프로젝트를 팀으로 하게 되고, FPGA에서 구동되는 회로를 처음부터 설계하는 것이 목표이다. 우리 팀의 경우에는 당시 내가 [유튜브에서 재밌게 보았던](https://www.youtube.com/watch?v=D_DdyxvSdpA) 요트 다이스 게임을 구현하였다.
+  - 원래 목표는 dot matrix 디스플레이에 주사위를 그리는 것이었는데, 부품 수급 이슈로 온보드 LED에 2진수로 표시하는 것으로 만족해야 했다.
+
 
 ## CSED331 알고리즘
 
