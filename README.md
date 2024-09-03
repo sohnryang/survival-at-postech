@@ -20,6 +20,10 @@
 | [2023 Fall](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2023-fall.md) | CSED211, CSED312, CSED341, MATH230, MATH261, MATH312 |
 | [2024 Spring](https://github.com/sohnryang/survival-at-postech/blob/main/course-reviews/2024-spring.md) | CSED311, CSED321, CSED353, CSED451                   |
 
+## Tips & Tricks
+
+TBA
+
 ## Disclaimer
 
 이 저장소의 course review에는 내가 과제로 제출했거나 공부하는데 썼던 코드, 증명 등을 링크해 두었다. 포스테키안이라면 이미 학업 윤리에 대해서는 충분히 알고 있을 것이니, 여기에 있는 자료를 정당하게 사용하기를 바란다.
